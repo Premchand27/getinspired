@@ -3,6 +3,7 @@ import './App.css';
 import Button from 'react-bootstrap/Button';
 
 const quotes = [
+  "Dont Focus on Girls focus on goals!! - Srikar",
   "Life is a story that you tell yourself and I wanna make sure atleast try that it worth telling -Premchand",
   "The only way to do great work is to love what you do. - Steve Jobs",
   "Believe you can and you're halfway there. - Theodore Roosevelt",
